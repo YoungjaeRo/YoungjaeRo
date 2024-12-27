@@ -22,18 +22,18 @@
 
 
 ### 🏃 Activites 
-- UMC 7th Spring (SMUMC)
+- UMC 7th Spring 
 - IT 연합 동아리 코테이토 10기 Backend
-- 우리 FISA Cloud Service 4기 (soon..)
+- 우리 FISA Cloud Service 4기
 
 
 
 ### 📜 Certification
-- 정보처리기사
-- TOEIC - 980
-- OPIC - AL
-- SQLD
-- ADsP
+- **정보처리기사**
+- TOEIC - **980**
+- OPIC - **AL**
+- **SQLD**
+- **ADsP**
 
 
 
