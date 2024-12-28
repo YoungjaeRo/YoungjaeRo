@@ -22,8 +22,8 @@
 
 
 ### 🏃 Activites 
-- IT 연합 동아리 UMC 7th SpringBoot
 - IT 연합 동아리 코테이토 10th BE
+- IT 연합 동아리 UMC 7th Spring
 - 우리 FISA Cloud Service 4th 
 
 
