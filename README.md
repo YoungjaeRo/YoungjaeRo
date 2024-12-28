@@ -22,9 +22,9 @@
 
 
 ### 🏃 Activites 
-- UMC 7th Spring 
-- IT 연합 동아리 코테이토 10기 Backend
-- 우리 FISA Cloud Service 4기
+- 우리 FISA Cloud Service 4th 
+- IT 연합 동아리 코테이토 10th Backend
+- UMC 7th Spring
 
 
 
