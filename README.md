@@ -19,7 +19,7 @@
 
 <br>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryj0330)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryj0330)](https://solved.ac/ryj0330)
 
 
 ### 🏃 Activites 
