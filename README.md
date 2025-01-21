@@ -17,10 +17,6 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="https://aws.amazon.com/ko/?nc2=h_lg"><img src="https://img.shields.io/badge/AWS-F89501?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryj0330)](https://solved.ac/ryj0330)
-
 
 ### 🏃 Activites 
 - IT 연합 동아리 COTATO 10th BE
