@@ -18,6 +18,7 @@
 <a href="https://aws.amazon.com/ko/?nc2=h_lg"><img src="https://img.shields.io/badge/AWS-F89501?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
 
+
 ### 🏃 Activites 
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 UMC 7th Spring
