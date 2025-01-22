@@ -22,7 +22,7 @@
 ### 🏃 Activites 
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 UMC 7th Spring
-- 우리 FISA 4th 
+- 우리 FISA 4th Cloud Service
 
 
 ### 📜 Certification
