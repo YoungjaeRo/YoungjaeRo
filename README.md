@@ -21,9 +21,9 @@
 
 
 ### 🏃 Activites 
-- IT 연합 동아리 COTATO 10th BE
-- IT 연합 동아리 COTATO 11th BE
-- IT 연합 동아리 UMC 7th Spring
+- IT 연합 동아리 UMC 7th SpringBoot
+- IT 연합 동아리 COTATO 10th BackEnd
+- IT 연합 동아리 COTATO 11th BackEnd
 - 우리 FISA 4th Cloud Service
 
 
