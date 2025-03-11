@@ -25,7 +25,7 @@
 - IT 연합 동아리 UMC 7th SpringBoot
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 COTATO 11th BE
-- 우리 FISA 3th Cloud Service
+- 우리 FISA 4th Cloud Service
 
 
 ### 📜 Certification
