@@ -10,7 +10,7 @@
 
 
 
-### 🔨 Tech Stacks
+### ⚒️ Tech Stacks
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat&logo=Java&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat&logo=SpringBoot&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 
 
 
-### 🏃 Activites 
+### ⛺️ Activites 
 - IT 연합 동아리 UMC 7th SpringBoot
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 COTATO 11th BE
@@ -36,7 +36,7 @@
 - **ADsP**
 
 
-### 🏁 Projects 
+### 🎱 Projects 
 - 웹 아카이빙 서비스, 오딧 (ODIT)
 - 오늘 날씨에 맞는 옷 추천 서비스, 클로디 (CLODY)
 - 찾아주는 술집, 찾술 (ChatSul)
