@@ -1,16 +1,7 @@
 # 노영재, *Youngjae Ro*     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungjaeRo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-🪐 BackEnd Developer  
-🏫 SangMyung University    
 
 
-
-
-**Spring Boot** 를 주력으로 사용하여 **백앤드 개발**을 공부하고 있습니다
-
-
-
-
-### ⚒️ Tech Stacks
+### 🛠️ Tech Stacks
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat&logo=Java&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat&logo=SpringBoot&logoColor=white"/></a>
@@ -21,7 +12,7 @@
 
 
 
-### ⛺️ Activites 
+### 🧩 Activites 
 - IT 연합 동아리 UMC 7th SpringBoot
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 COTATO 11th BE
