@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stacks
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat&logo=Java&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat&logo=SpringBoot&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-data-jpa"><img src="https://img.shields.io/badge/Spring Data JPA-6AAE3D?style=flat&logo=&logoColor=white"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
