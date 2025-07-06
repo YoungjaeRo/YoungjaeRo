@@ -22,7 +22,7 @@
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 COTATO 11th BE
 - SK AI Dream Camp
-- LG Aimers 8th
+- LG Aimers
 - 우리 FIS Academy 4th Cloud Service
 
 
