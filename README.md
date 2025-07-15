@@ -5,7 +5,7 @@
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-1974D2?style=flat&logo=OpenJDK&logoColor=orange"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFEB3B?style=flat&logo=Python&logoColor=black"></a>
 <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat&logo=SpringBoot&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6AAE3D?style=flat&logo=SpringBoot&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-data-jpa"><img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=hibernate&logoColor=white"/>
 </p>
 
