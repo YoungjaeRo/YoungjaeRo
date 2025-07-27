@@ -44,7 +44,7 @@
 ### ⭐️ Projects 
 |Title|Role|
 |:---:|:---:|
-| 토큰으로 일상을 거래하는 플랫폼, 토킷 (Tokkit) | 팀장 & BE |
-| 웹 아카이빙 서비스, 오딧 (Odit) | BE |
-| 오늘 날씨에 맞는 옷 추천 서비스, 클로디 (Clody) | BE |
-| 찾아주는 술집, 찾술 (ChatSul) | BE |
+| 토큰으로 일상을 거래하는 플랫폼, 토킷 (Tokkit) | Backend |
+| 웹 아카이빙 서비스, 오딧 (Odit) | Backend |
+| 오늘 날씨에 맞는 옷 추천 서비스, 클로디 (Clody) | Backend |
+| 찾아주는 술집, 찾술 (ChatSul) | Backend |
