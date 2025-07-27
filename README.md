@@ -16,7 +16,6 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 
 
-
 ### 🧩 Activites 
 |Organization|Role|
 |:---:|:---:|
@@ -27,6 +26,7 @@
 | LG | Aimers 8th |
 | 우리 FIS | Cloud Service Development 4th |
 
+</br>
 
 ### 📜 Certification
 |Organization|Title|
@@ -39,8 +39,9 @@
 | 한국데이터산업진흥원 | SQLD |
 | 한국데이터산업진흥원 | ADsP |
 
+</br>
 
-### 🎱 Projects 
+### ⭐️ Projects 
 |Title|Role|
 |:---:|:---:|
 | 토큰으로 일상을 거래하는 플랫폼, 토킷 (Tokkit) | 팀장 & BE |
