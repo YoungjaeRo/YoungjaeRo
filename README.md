@@ -29,7 +29,6 @@
 ### 📜 Certification
 - **정보처리기사**
 - TOEIC - **980**
-- OPIC - **AL**
 - **AWS Certified Solutions Architect - Associate**
 - **AWS Certified Cloud Practitioner** 
 - **SQLD**
