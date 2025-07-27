@@ -16,35 +16,28 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 
 
-### 🧩 Activites 
-|Organization|Role|
-|:---:|:---:|
-| UMC | Backend Developer 7th |
-| COTATO | Backend Developer 10th |
-| COTATO | Backend Developer 11th |
-| SK | AI Dream Camp |
-| LG | Aimers 8th |
-| 우리 FIS | Cloud Service Development 4th |
 
-</br>
+### 🧩 Activites 
+- IT 연합 동아리 UMC 7th SpringBoot
+- IT 연합 동아리 COTATO 10th BE
+- IT 연합 동아리 COTATO 11th BE
+- SK AI Dream Camp
+- LG Aimers
+- 우리에프아이에스 Academy 4th Cloud Service
+
 
 ### 📜 Certification
-|Organization|Title|
-|:---:|:---:|
-| 한국산업인력공단 | 정보처리기사 |
-| TOEIC | 980 |
-| OPIC | AL |
-| AWS | Certified Solutions Architect - Associate |
-| AWS | Certified Cloud Practitioner |
-| 한국데이터산업진흥원 | SQLD |
-| 한국데이터산업진흥원 | ADsP |
+- **정보처리기사**
+- TOEIC - **980**
+- OPIC - **AL**
+- **AWS Certified Solutions Architect - Associate**
+- **AWS Certified Cloud Practitioner** 
+- **SQLD**
+- **ADsP**
 
-</br>
 
 ### ⭐️ Projects 
-|Title|Role|
-|:---:|:---:|
-| 토큰으로 일상을 거래하는 플랫폼, 토킷 (Tokkit) | Backend |
-| 웹 아카이빙 서비스, 오딧 (Odit) | Backend |
-| 오늘 날씨에 맞는 옷 추천 서비스, 클로디 (Clody) | Backend |
-| 찾아주는 술집, 찾술 (ChatSul) | Backend |
+- 토큰으로 일상을 거래하는 플랫폼, 토킷 (Tokkit)
+- 웹 아카이빙 서비스, 오딧 (Odit)
+- 오늘 날씨에 맞는 옷 추천 서비스, 클로디 (Clody)
+- 찾아주는 술집, 찾술 (ChatSul)
