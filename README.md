@@ -18,24 +18,32 @@
 
 
 ### 🧩 Activites 
-- IT 연합 동아리 UMC 7th SpringBoot
-- IT 연합 동아리 COTATO 10th BE
-- IT 연합 동아리 COTATO 11th BE
-- SK AI Dream Camp
-- LG Aimers
-- 우리에프아이에스 Academy 4th Cloud Service
+|Organization|Role|
+|:---:|:---:|
+| UMC | Backend Developer 7th |
+| COTATO | Backend Developer 10th |
+| COTATO | Backend Developer 11th |
+| SK | AI Dream Camp |
+| LG | Aimers 8th |
+| 우리 FIS | Cloud Service Development 4th |
 
 
 ### 📜 Certification
-- **정보처리기사**
-- TOEIC - **980**
-- OPIC - **AL**
-- **SQLD**
-- **ADsP**
+|Organization|Title|
+|:---:|:---:|
+| 한국산업인력공단 | 정보처리기사 |
+| TOEIC | 980 |
+| OPIC | AL |
+| AWS | Certified Solutions Architect - Associate |
+| AWS | Certified Cloud Practitioner |
+| 한국데이터산업진흥원 | SQLD |
+| 한국데이터산업진흥원 | ADsP |
 
 
 ### 🎱 Projects 
-- 토큰으로 일상을 거래하는 플랫폼, 토킷 (Tokkit)
-- 웹 아카이빙 서비스, 오딧 (Odit)
-- 오늘 날씨에 맞는 옷 추천 서비스, 클로디 (Clody)
-- 찾아주는 술집, 찾술 (ChatSul)
+|Title|Role|
+|:---:|:---:|
+| 토큰으로 일상을 거래하는 플랫폼, 토킷 (Tokkit) | 팀장 & BE |
+| 웹 아카이빙 서비스, 오딧 (Odit) | BE |
+| 오늘 날씨에 맞는 옷 추천 서비스, 클로디 (Clody) | BE |
+| 찾아주는 술집, 찾술 (ChatSul) | BE |
