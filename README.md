@@ -23,7 +23,7 @@
 - IT 연합 동아리 COTATO 11th BE
 - SK AI Dream Camp
 - LG Aimers
-- 우리FIS Cloud Service 4th
+- 우리 FIS Cloud Service 4th
 
 
 ### 📜 Certification
