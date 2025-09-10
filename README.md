@@ -24,7 +24,7 @@
 - SK AI Dream Camp
 - LG Aimers
 - 우리 FIS Cloud Service 4th
-- Open Source Contribution - Yocto Project
+- Open Source Contribution - Yocto Project (Linux Foundation)
 
 
 ### 📜 Certification
