@@ -39,6 +39,7 @@
 
 ### ⭐️ Projects 
 - 토큰으로 일상을 거래하는 플랫폼, 토킷 [Tokkit]
+- Yocto Project Contributor (Linux Foundation Project)
 - 웹 아카이빙 서비스, 오딧 [Odit]
 - 오늘 날씨에 맞는 옷 추천 서비스, 클로디 [Clody]
 - 찾아주는 술집, 찾술 [ChatSul]
