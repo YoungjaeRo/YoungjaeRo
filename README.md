@@ -24,7 +24,7 @@
 - SK AI Dream Camp
 - LG Aimers
 - 우리 FIS Cloud Service 4th
-- OSSCA Yocto Project contribution
+- 2025 OSSCA Yocto Project
 
 
 ### 📜 Certification
