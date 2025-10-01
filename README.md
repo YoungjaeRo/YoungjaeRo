@@ -17,7 +17,7 @@
 
 
 
-### 🧩 Activites 
+### 🧩 Experiences
 - IT 연합 동아리 UMC 7th SpringBoot
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 COTATO 11th BE
