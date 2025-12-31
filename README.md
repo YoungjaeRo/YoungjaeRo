@@ -25,7 +25,7 @@
 - 우리 FIS 아카데미 Cloud Service Development
 
 
-## 📜 Certification
+## 🎖️ Certification
 - **정보처리기사**
 - TOEIC - **980**
 - OPIC - **AL**
@@ -34,5 +34,5 @@
 - **SQLD**
 - **ADsP**
 
-## PS
+## 🏹 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryj0330)](https://solved.ac/profile/ryj0330)
