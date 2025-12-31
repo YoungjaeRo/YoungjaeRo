@@ -1,6 +1,6 @@
 # 노영재, *Youngjae Ro*
 
-## 🛠️ Tech Stacks
+## Tech Stacks
 <p>
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-1974D2?style=flat&logo=OpenJDK&logoColor=orange"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFEB3B?style=flat&logo=Python&logoColor=black"></a>
@@ -17,7 +17,7 @@
 
 
 
-## 🧩 Experiences
+## Experiences
 - IT 연합 동아리 UMC 7th SpringBoot
 - IT 연합 동아리 COTATO 10th BE
 - IT 연합 동아리 COTATO 11th BE
@@ -25,7 +25,7 @@
 - 우리 FIS 아카데미 Cloud Service Development
 
 
-## 🎖️ Certification
+## Certification
 - **정보처리기사**
 - TOEIC - **980**
 - OPIC - **AL**
@@ -34,5 +34,5 @@
 - **SQLD**
 - **ADsP**
 
-## 🏹 PS
+## PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryj0330)](https://solved.ac/profile/ryj0330)
