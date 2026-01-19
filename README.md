@@ -19,7 +19,7 @@
 
 ## Career
 - Siemens(지멘스) PLM Engineer (2025.02 ~ )
-
+<br>
 
 ## Certification
 - **정보처리기사**
@@ -29,6 +29,7 @@
 - **AWS Certified Cloud Practitioner** 
 - **SQLD**
 - **ADsP**
+<br>
 
 ## Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryj0330)](https://solved.ac/profile/ryj0330)
