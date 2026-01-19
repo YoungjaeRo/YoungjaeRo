@@ -18,7 +18,7 @@
 
 
 ## Career
-- Siemens PLM Engineer(2025.02 ~ )
+- Siemens(지멘스) PLM Engineer (2025.02 ~ )
 
 
 ## Certification
