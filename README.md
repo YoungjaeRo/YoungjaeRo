@@ -17,12 +17,8 @@
 
 
 
-## Experiences
-- IT 연합 동아리 UMC 7th SpringBoot
-- IT 연합 동아리 COTATO 10th BE
-- IT 연합 동아리 COTATO 11th BE
-- LG Aimers
-- 우리 FIS 아카데미 Cloud Service Development
+## Career
+- Siemens PLM Engineer(2025.02 ~ )
 
 
 ## Certification
