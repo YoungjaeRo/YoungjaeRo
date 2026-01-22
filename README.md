@@ -18,7 +18,7 @@
 
 
 ## Career
-- Siemens(지멘스) PLM Solution Engineer | Enterprise IT & System Integration
+- Siemens(지멘스) PLM Software Engineer | Enterprise IT & System Integration
 <br>
 
 ## Certification
