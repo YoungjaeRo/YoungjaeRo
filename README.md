@@ -1,5 +1,4 @@
 # 노영재, *Youngjae Ro* 
-<br>
 
 ## Tech Stacks
 <p>
@@ -15,8 +14,6 @@
 <a href="https://redis.io/ko/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"></a>
 <a href="https://junit.org/junit5/"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-
-<br>
 
 ## Career
 - Siemens(지멘스) PLM Software Engineer
