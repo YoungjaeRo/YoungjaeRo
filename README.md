@@ -17,7 +17,7 @@
 <br>
 
 ## Career
-- Siemens(지멘스) PLM Software Engineer
+- SAS Tech Intern
 <br>
 
 ## Certification
