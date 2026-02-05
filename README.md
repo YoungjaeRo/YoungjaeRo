@@ -17,7 +17,7 @@
 <br>
 
 ## Career
-- SAS Tech Intern (Viya 4, Kubernetes, Cloud)
+- SAS Tech Intern
 <br>
 
 ## Certification
