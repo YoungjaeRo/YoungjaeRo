@@ -16,6 +16,11 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <br>
 
+## Career
+- SAS Tech Intern (Global)
+<br>
+
+
 ## Certification
 - **정보처리기사**
 - TOEIC - **980**
