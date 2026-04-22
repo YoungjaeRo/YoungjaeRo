@@ -16,13 +16,5 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <br>
 
-## Certification
-- **정보처리기사**
-- **AWS Certified Solutions Architect - Associate**
-- **AWS Certified Cloud Practitioner** 
-- **SQLD**
-- **ADsP**
-<br>
-
 ## Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryj0330)](https://solved.ac/profile/ryj0330)
